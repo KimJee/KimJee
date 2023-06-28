@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KimJee
-- 👀 I’m interested in full stack development, cybersecurity, and modern C++!
-- 🌱 I’m currently learning Postgre SQL, practicing more LeetCode
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently learning SQL, Angular, and Typescript
 - 💞️ I’m looking to collaborate on anything, and EVERYTHING! :)
 - 📫 How to reach me jeehoon.jk75@gmail.com 
 
